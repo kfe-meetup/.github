@@ -12,7 +12,7 @@ Despite the growing tech community, meaningful local connections are still diffi
 
 ## 💡 Solution
 
-**DevCircle** is a community-driven platform that helps developers connect, collaborate, and grow together.
+**K'fe App** is a community-driven platform that helps developers connect, collaborate, and grow together.
 
 The platform encourages developers to:
 
