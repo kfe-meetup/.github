@@ -1,3 +1,8 @@
+
+<div align="center" style="padding: 2rem;">
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/a44cca4d-9836-45e3-9caf-711db1942dcd" />
+</div>
+
 # ☕👨‍💻 K'fe App 
 
 > Helping developers connect, grow together, and build meaningful communities.
