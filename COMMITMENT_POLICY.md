@@ -45,8 +45,10 @@ I acknowledge that I have read and understand the K'fe Meetup Freelance Contract
 ______________________________________
 **Contractor Name (Print)**
 
-______________________________________
-**Contractor Signature**
+- [PPhat](https://pphat.me)
+
 
 ______________________________________
 **Date**
+
+- **08 June 2026**
